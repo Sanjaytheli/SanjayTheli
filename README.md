@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sanjay
+# 👋 Hi, I'm Sanjay Theli
 
 ### 🚀 DevOps Engineer & Full-Stack Developer
 
