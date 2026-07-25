@@ -28,7 +28,7 @@ I specialize in building scalable cloud infrastructure, CI/CD automation, contai
 - 🔭 **Currently Working On:** Cloud automation pipelines, infrastructure as code, and full-stack web/mobile applications.
 - 🌱 **Learning & Exploring:** Advanced GCP architectures, serverless frameworks, and site reliability engineering (SRE) patterns.
 - 💬 **Ask Me About:** AWS, Docker, CI/CD deployment strategies, and React ecosystem.
-- 📫 **How to Reach Me:** [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
+- 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/sanjaytheli) | [Email](mailto:thelisanjay@gmail.com)
 
 ---
 
