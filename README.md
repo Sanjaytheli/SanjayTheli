@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Sanjay Theli
 
-### 🚀 DevOps Engineer & Full-Stack Developer
-
+### 🚀 DevOps Engineer 
 I specialize in building scalable cloud infrastructure, CI/CD automation, containerization, and modern web/mobile applications. Passionate about automating processes, optimizing cloud resources, and developing seamless user experiences.
 
 ---
